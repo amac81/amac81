@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning more and more
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on any challenge you propose to me!
-- 📫 How to reach me https://www.linkedin.com/in/arnaldo-canelas-99941148 
+- 📫 How to reach me https://www.linkedin.com/in/arnaldo-canelas
 
 - under constrution
 
