@@ -16,7 +16,7 @@
 
 🚀 Here are the technologies I frequently work with:
 
-[![text](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]
+[![img](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]
 
 
 
