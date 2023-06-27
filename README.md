@@ -19,7 +19,9 @@
 
 
 ![imagem](https://github.com/amac81/amac81/assets/92024910/d5ae9ada-ab53-4bfa-b56a-18a3bed222f7)
-
+![imagem](https://github.com/amac81/amac81/assets/92024910/592958c5-0ffe-4776-b004-8d7ffdd7090c)
+![imagem](https://github.com/amac81/amac81/assets/92024910/e3597561-d266-4a82-8ee1-4139cd974d94)
+![imagem](https://github.com/amac81/amac81/assets/92024910/e4ee7cfe-6afa-415c-8de4-a8a1b6121b5f)
 
 - Java 
 - JavaScript
