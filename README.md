@@ -1,4 +1,4 @@
-👋 Hi, I’m Arnaldo
+👋 Hi, I’m Arnaldo 🇵🇹
 
 🧑‍🎓 Degree in Computer Engineering - Programming 
 
