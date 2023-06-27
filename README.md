@@ -6,7 +6,9 @@
 - 💞️ I’m looking to collaborate on any challenge you propose to me!
 - 📫 How to reach me:
 
-- https://www.linkedin.com/in/arnaldocanelas
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaldocanelas)
+
+
 
 ## Tech Stack
 
