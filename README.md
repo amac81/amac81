@@ -1,10 +1,10 @@
-👋 Hi, I’m Arnaldo
-🧑‍🎓 Degree in Computer Engineering - Programming 
-🤓 I've 20 years background in IT
-👀 I’m interested in learning more and more
-🌱 I’m currently learning Java, Spring, JPA, Hibernate, MySQL and MongoDB
-💞️ I’m looking to collaborate on any challenge you propose to me!
-📫 How to reach me:
+-👋 Hi, I’m Arnaldo
+-🧑‍🎓 Degree in Computer Engineering - Programming 
+-🤓 I've 20 years background in IT
+-👀 I’m interested in learning more and more
+-🌱 I’m currently learning Java, Spring, JPA, Hibernate, MySQL and MongoDB
+-💞️ I’m looking to collaborate on any challenge you propose to me!
+-📫 How to reach me:
   
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaldocanelas)
 [![text](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnaldocanelas@gmail.com)
@@ -24,7 +24,8 @@
 ![imagem](https://github.com/amac81/amac81/assets/92024910/eb49a651-8272-4f46-be6f-e92a7616bc8a)
 ![imagem](https://github.com/amac81/amac81/assets/92024910/c7787a98-d4d2-4507-b8cf-344ff3b5c28c)
 
-<a>![badge-alt-text](https://github.com/amac81/amac81/assets/92024910/c7787a98-d4d2-4507-b8cf-344ff3b5c28c)</a> 
+<a>![badge-alt-text](https://github.com/amac81/amac81/assets/92024910/c7787a98-d4d2-4507-b8cf-344ff3b5c28c)</a>
+<a>![badge-alt-text](https://example.com/image.png)</a>
 
 
 <!---
