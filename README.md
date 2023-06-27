@@ -1,4 +1,5 @@
-👋 Hi, I’m Arnaldo
+👋 Hi, I’m Arnaldo ![imagem](https://github.com/amac81/amac81/assets/92024910/e2fcf889-f3f8-4a5a-a66e-c03ea7cd52f6)
+
 
 🧑‍🎓 Degree in Computer Engineering - Programming 
 
