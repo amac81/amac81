@@ -17,7 +17,8 @@
 🚀 Here are the technologies I frequently work with:
 
 
-![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+![imagem](https://github.com/amac81/amac81/assets/92024910/d5ae9ada-ab53-4bfa-b56a-18a3bed222f7)
 
 
 - Java 
