@@ -30,6 +30,9 @@
 ![imagem](https://github.com/amac81/amac81/assets/92024910/eb49a651-8272-4f46-be6f-e92a7616bc8a)
 ![imagem](https://github.com/amac81/amac81/assets/92024910/c7787a98-d4d2-4507-b8cf-344ff3b5c28c)
 
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+
 <!---
 amac81/amac81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
