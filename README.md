@@ -35,7 +35,7 @@
 ## Status
 
 [![My GitHub Language Stats](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=amac81&langs_count=5&theme=tokyonight)]()
-[![My GitHub Stats]([https://github-readme-stats.vercel.app](https://github-readme-stats-ruby-one.vercel.app)/api/?username=amac81&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats-ruby-one.vercel.app/api/?username=amac81&count_private=true&theme=tokyonight&showicons=true)]()
 
 <!---
 amac81/amac81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
