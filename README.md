@@ -33,10 +33,8 @@
 ![imagem](https://github.com/amac81/amac81/assets/92024910/c7787a98-d4d2-4507-b8cf-344ff3b5c28c)
 
 ## Status
+![amac81's Language Stats](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=amac81&langs_count=5&theme=tokyonight)]()
 ![amac81's GitHub stats](https://github-readme-stats.vercel.app/api?username=amac81&hide=contribs,prs)
-[![My GitHub Language Stats](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=amac81&langs_count=5&theme=tokyonight)]()
-[![My GitHub Stats](https://github-readme-stats-ruby-one.vercel.app/api/?username=amac81&count_private=true&theme=tokyonight&showicons=true)]()
-
 <!---
 amac81/amac81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
