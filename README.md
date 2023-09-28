@@ -34,7 +34,7 @@
 
 ## Status
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amac81)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amac81)
 ![amac81's GitHub stats](https://github-readme-stats.vercel.app/api?username=amac81&hide=contribs,prs)
 <!---
 amac81/amac81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
