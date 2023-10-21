@@ -8,7 +8,7 @@
 
 👀 I’m interested in learning more and more
 
-🌱 I’m currently learning Java, Spring, JPA, Hibernate, MySQL and MongoDB
+🌱 I’m currently learning Javascript, React, Java, Spring, JPA, Hibernate, MySQL and MongoDB
 
 💞️ I’m looking to collaborate on any challenge you propose to me!
 
