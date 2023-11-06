@@ -4,7 +4,7 @@
 
 🧑‍🎓 Degree in Computer Engineering - Programming 
 
-🤓 I've 20 years background in IT
+🤓 I have more than 20 years background in IT
 
 👀 I’m interested in learning more and more
 
