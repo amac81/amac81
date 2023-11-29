@@ -31,9 +31,9 @@
 ![imagem](https://github.com/amac81/amac81/assets/92024910/46158f02-a43b-4971-96e7-0b056af1639f)
 ![imagem](https://github.com/amac81/amac81/assets/92024910/eb49a651-8272-4f46-be6f-e92a7616bc8a)
 ![imagem](https://github.com/amac81/amac81/assets/92024910/c7787a98-d4d2-4507-b8cf-344ff3b5c28c)
-<img width="40" src ="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png">
-<img width="40" src ="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">
-<img width="40" src ="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png">
+<img width="35" src ="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png">
+<img width="35" src ="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">
+<img width="35" src ="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png">
 
 
 ## Status
